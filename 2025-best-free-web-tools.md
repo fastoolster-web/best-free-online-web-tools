@@ -49,7 +49,7 @@ keywords: 在线工具, 图片压缩, PDF 转换, Unicode 转换器, URL 编码�
 **用途**：将文本与 Unicode、UTF-8、HTML 实体等编码格式互转，适合开发与本地化。
 
 ### 推荐网站：
-- 🔗 [**web.mytoolster.com/unicode-converter**](https://web.mytoolster.com/unicode-converter) — 支持字符 ↔ Unicode、十六进制、HTML 实体等，适合前端调试与编码查看。
+- 🔗 [**web.mytoolster.com/unicode-converter**](https://web.mytoolster.com/zh/unicode) — 支持字符 ↔ Unicode、十六进制、HTML 实体等，适合前端调试与编码查看。
 - 🔗 [**rishida.net/tools/conversion/**](https://rishida.net/tools/conversion/) — 支持多种字符集转换，适用于语言学、编码规范研究。
 
 **关键词推荐**：`Unicode 转中文`, `UTF-8 转字符`, `Unicode 编码查看`
@@ -61,7 +61,7 @@ keywords: 在线工具, 图片压缩, PDF 转换, Unicode 转换器, URL 编码�
 **用途**：解析 URL 结构、提取 query 参数、编码/解码中文链接。
 
 ### 推荐网站：
-- 🔗 [**web.mytoolster.com/url-parser**](https://web.mytoolster.com/url-parser) — 自动解析 URL 协议、主机、路径、参数等，支持编码/解码切换。
+- 🔗 [**web.mytoolster.com/url-parser**](https://web.mytoolster.com/zh/urlparams) — 自动解析 URL 协议、主机、路径、参数等，支持编码/解码切换。
 - 🔗 [**urldecoder.org**](https://www.urldecoder.org/) — 快速 URL 解码/编码，支持多语言字符处理。
 
 **关键词推荐**：`URL 编码工具`, `在线 URL 解码`, `解析网页链接`
@@ -73,7 +73,7 @@ keywords: 在线工具, 图片压缩, PDF 转换, Unicode 转换器, URL 编码�
 **用途**：在 Unix 时间戳与常规时间格式之间互相转换，支持毫秒精度与时区调整。
 
 ### 推荐网站：
-- 🔗 [**web.mytoolster.com/unix-timestamp**](https://web.mytoolster.com/unix-timestamp) — 获取当前时间戳、支持本地时间显示、快速复制结果。
+- 🔗 [**web.mytoolster.com/unix-timestamp**](https://web.mytoolster.com/zh/unixtime) — 获取当前时间戳、支持本地时间显示、快速复制结果。
 - 🔗 [**unixtimestamp.com**](https://www.unixtimestamp.com/) — 提供简单的时间 ↔ 时间戳互转，适合日志分析与接口调试。
 
 **关键词推荐**：`时间戳转换`, `Unix 时间转换`, `timestamp 工具`
